@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ye9wzj.koitoto9byr.cyou/sitemap.xml
